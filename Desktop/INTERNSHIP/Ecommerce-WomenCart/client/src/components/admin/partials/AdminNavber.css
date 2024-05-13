@@ -1,0 +1,23 @@
+.dark-mode body {
+    background-color: #1a202c;
+    color: #fff;
+}
+
+.dark-mode.hover\:bg-gray-200:hover {
+    background-color: #4a5568;
+}
+
+.dark-mode.text-gray-600 {
+    color: #e2e8f0;
+}
+
+.dark-mode.hover\:text-gray-800:hover {
+    color: #fff;
+}
+
+
+/* Adjust the SVG color accordingly */
+
+.dark-mode.hover\:bg-gray-200:hover svg {
+    fill: #fff;
+}

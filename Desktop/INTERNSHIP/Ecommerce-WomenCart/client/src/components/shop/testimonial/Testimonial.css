@@ -1,0 +1,10 @@
+.slick-prev:before {
+    content: '←';
+    background-color: gray;
+    border-radius: 100%;
+}
+.slick-next:before {
+    content: '→';
+    background-color: gray;
+    border-radius: 100%;
+}

@@ -1,0 +1,7 @@
+1  cd server
+2  then go to package.json and wait for few min...untill
+   degug come ...and then click on (start:dev nodemon app.js)
+3 keep this terminal as it is and open new terminal
+4 cd client
+5  then go to package.json and wait for few min...untill
+   degug come ...and then click on (start react-script start)
